@@ -3,8 +3,8 @@
 void main() {
 
     printf("Hello World!");
-	//int age;
-	//scanf("%d", &age);
+	int age;
+	scanf("%d", &age);
 	getchar();
 	return;
 }
